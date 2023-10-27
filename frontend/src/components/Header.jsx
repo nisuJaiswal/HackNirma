@@ -133,7 +133,7 @@ const Header = () => {
             noWrap
             sx={{ flexGrow: 1 }}
           >
-            <b>WarpLearn</b>
+            <b>AskDocumentor</b>
           </Typography>
           <Button
             color="secondary"
